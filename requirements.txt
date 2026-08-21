@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pymupdf
+sqlalchemy
+pydantic
+pydantic-settings
+openai
+pytest
+httpx
